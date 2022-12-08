@@ -1,6 +1,4 @@
 # Application-Dev
 My first repository
 
-{
-    "Favorite Movie": "Troll",
-}
+[troll](https://www.netflix.com/ph-en/title/81245455)
